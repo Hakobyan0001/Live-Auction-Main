@@ -1,0 +1,51 @@
+.item-container {
+  padding: 25px;
+  background-color: azure;
+}
+.items-list-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 2000px;
+}
+.item-list-cont .ant-col {
+  flex: none !important;
+}
+
+.item-list-cont .ant-row {
+  margin-top: 40px;
+  justify-content: center;
+}
+.list {
+  width: 300px;
+}
+.items-list {
+  width: 80%;
+}
+.items-list-header {
+  display: flex;
+}
+
+.filter-item {
+  margin: 0px 20px;
+}
+
+.input-number {
+  margin-right: 10px;
+}
+
+.filter-type {
+  margin: 0px 10px;
+}
+
+.ant-card-body {
+  height: 180px;
+}
+.price-filter-item {
+  display: flex;
+  align-items: center;
+}
+.price-filter-item article {
+  margin-right: 5px;
+}

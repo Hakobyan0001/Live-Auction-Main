@@ -1,0 +1,22 @@
+.layout {
+  background-color: azure;
+}
+
+.menu {
+  height: 64px;
+}
+.login-btn {
+  float: right;
+  margin-top: 8px;
+}
+.left-item {
+  position: absolute;
+}
+.center-item {
+  color: #fff !important;
+  margin: auto !important;
+  cursor: default;
+}
+.right-item {
+  float: right;
+}

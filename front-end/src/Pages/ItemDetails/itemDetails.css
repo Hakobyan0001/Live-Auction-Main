@@ -1,0 +1,27 @@
+.item-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.item-card {
+  width: 400px;
+  font-size: large;
+}
+.item-card .ant-card-body {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.bid-input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.messages {
+  display: flex;
+  flex-direction: column;
+}
